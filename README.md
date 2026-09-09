@@ -20,7 +20,8 @@ A Flask + Jinja2 + MySQL project: a personal document manager UI, using HTML/ CS
 
    ```bash
    python -m venv venv
-   source venv/bin/activate
+   source venv/bin/activate (Linux)
+   # venv\Scripts\activate (windows)
    pip install -r requirements.txt
    ```
 
